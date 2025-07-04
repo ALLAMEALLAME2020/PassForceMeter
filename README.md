@@ -95,7 +95,7 @@ This project is provided as-is for educational use only.
 
 ### 👤 Author
 
-Your Name — [Your GitHub Profile](https://github.com/yourusername)
+ALLAMEALLAME2020 — [GitHub Profile](https://github.com/ALLAMEALLAME2020)
 
 ```
 ```
