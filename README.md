@@ -1,4 +1,3 @@
-````markdown
 # 🚀 PassForceMeter - Password Strength & Brute Force Simulator 🔐
 
 ---
@@ -44,7 +43,7 @@ Install dependencies with:
 pip install colorama
 ````
 
----
+
 
 ### 🚀 How to Use
 
