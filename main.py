@@ -15,7 +15,7 @@ def calculations(words):
     
     for loop in words:
         for loop2 in list:
-            if value == words:
+            if value == words: # Your Logic here if the Password is the same
                 print(Fore.RED+Style.BRIGHT+f'Script was breaked after {Fore.GREEN+str(times)+Fore.RED} time !!')
                 print(Fore.RED+Style.BRIGHT+f'Process finish after {Fore.GREEN+Style.BRIGHT+str(int(time.time() - start))}s')
                 break;
