@@ -1,10 +1,13 @@
-# 🚀 PassForceMeter
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=0AEFFF&vCenter=true&width=1000&lines=PassForceMeter+-+Password+Brute+Force+Visualizer" alt="PassForceMeter Title Animation" />
+</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3.x-blue.svg" alt="Python 3.x">
   <img src="https://img.shields.io/pypi/v/colorama.svg" alt="colorama">
   <img src="https://img.shields.io/badge/license-Educational-lightgrey.svg" alt="License">
   <br><br>
+  <!-- Replace with your actual demo GIF or screenshot if available -->
   <img src="https://user-images.githubusercontent.com/ALLAMEALLAME2020/placeholder-demo.gif" alt="PassForceMeter Demo" width="500"/>
   <br>
   <h3>🔐 Visualize Brute Force Attacks. Understand Password Strength. Learn Security.</h3>
@@ -21,7 +24,7 @@
 ## 🎯 Features
 
 - **Live Terminal Visualization**  
-  Watch each character guessed in real-time with vibrant color feedback (powered by `colorama`).
+  Watch each character guessed in real-time with vibrant color feedback.
 
 - **Step-by-Step Brute Force Simulation**  
   Simulates a brute force attack, guessing your password one character at a time from all printable ASCII characters.
@@ -41,6 +44,8 @@
 ---
 
 ## 📦 Installation
+
+**Make sure you have [`colorama`](https://pypi.org/project/colorama/) installed, otherwise the project will not work correctly!**
 
 ```bash
 git clone https://github.com/ALLAMEALLAME2020/PassForceMeter.git
