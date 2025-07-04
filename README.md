@@ -57,6 +57,12 @@ pip install colorama
 
 ## 🚀 Quick Start
 
+First you must to install **Colorama.**
+```bash
+pip install colorama
+```
+then :
+
 ```bash
 python main.py
 ```
